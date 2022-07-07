@@ -78,16 +78,18 @@ public class C02BasicOutputMethod {
 		//1010		DoUtJava	00미디어			29000
 		//2020		윤성우C		오렌지미디어		25000
 		
-		System.out.printf("%-8s %-8s %-8s %-8s\n", "No", "이름", "나이", "주소");
-		System.out.printf("%-8d %-8s %-8d %-8s\n", 1, "이름", 20, "대구");
-		System.out.printf("%-8d %-8s %-8d %-8s\n", 2, "이름", 30, "서울");
-		System.out.printf("%-8d %-8s %-8d %-8s\n", 3, "이름", 40, "울산");
-		System.out.printf("%-8d %-8s %-8d %-8s\n", 4, "이름", 50, "김해");
+		//System.out.printf("%-8s %-8s %-8s %-8s\n", "No", "이름", "나이", "주소");
+		//System.out.printf("%-8d %-8s %-8d %-8s\n", 1, "이름", 20, "대구");
+		//System.out.printf("%-8d %-8s %-8d %-8s\n", 2, "이름", 30, "서울");
+		//System.out.printf("%-8d %-8s %-8d %-8s\n", 3, "이름", 40, "울산");
+		//System.out.printf("%-8d %-8s %-8d %-8s\n", 4, "이름", 50, "김해");
 		
 		
-		System.out.printf("%-8s %-8s %-8s %-8s\n", "Code", "Title", "Publisher", "Price");
-		System.out.printf("%-8d %-8s %-8s %-8d\n", 1010, "DoUtJava", "00미디어", 29000);
-		System.out.printf("%-8d %-8s %-8s %-8d\n", 2020, "윤성우C", "오렌지미디어", 25000);
+		//System.out.printf("%-8s %-8s %-8s %-8s\n", "Code", "Title", "Publisher", "Price");
+		//System.out.printf("%-8d %-8s %-8s %-8d\n", 1010, "DoUtJava", "00미디어", 29000);
+		//System.out.printf("%-8d %-8s %-8s %-8d\n", 2020, "윤성우C", "오렌지미디어", 25000);
+		
+		System.out.println("GitHub TEST");
 	}
 
 }
